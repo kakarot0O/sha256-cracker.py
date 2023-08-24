@@ -15,7 +15,7 @@ pwntools library (install using pip install pwntools)
 
 **Usage**
 1. Clone this repository to your local machine.
-    - git clone https://github.com/your-username/sha256-cracker.git
+    - git clone https://github.com/kakarot0O/sha256-cracker.py.git
     - cd sha256-cracker
 
 2. Run the script with the target SHA-256 hash as an argument.
@@ -24,7 +24,7 @@ pwntools library (install using pip install pwntools)
 3. Replace <sha256sum> with the target SHA-256 hash you want to crack.
 
 **Example**
-    python sha256_cracker.py e63e1afb7e21846e833cef8b6703ea9a9ef1db8a90304f74d16a66f9e9703e3d
+    python3 sha256-cracker.py e63e1afb7e21846e833cef8b6703ea9a9ef1db8a90304f74d16a66f9e9703e3d
 
 **Disclaimer**
 This script is provided for educational purposes only. Unauthorized use of this script against systems you do not own or have explicit permission to test is illegal. The author is not responsible for any misuse or damage caused by this script.
