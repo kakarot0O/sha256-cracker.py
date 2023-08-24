@@ -15,11 +15,11 @@ pwntools library (install using pip install pwntools)
 
 **Usage**
 1. Clone this repository to your local machine.
-  git clone https://github.com/your-username/sha256-cracker.git
-  cd sha256-cracker
+  - git clone https://github.com/your-username/sha256-cracker.git
+  - cd sha256-cracker
 
 2. Run the script with the target SHA-256 hash as an argument.
-    python sha256_cracker.py <sha256sum>
+    - python sha256_cracker.py <sha256sum>
 
 3. Replace <sha256sum> with the target SHA-256 hash you want to crack.
 
